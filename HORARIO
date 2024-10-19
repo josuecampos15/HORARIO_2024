@@ -1,0 +1,70 @@
+<!DOCTYPE
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <table cellpadimg="1"cellpacing="1" style="text-align:center;" bordercolor="#000000" bgcolor="#F8F8FF" align="center" border="1" "editor aria-flowto="20px" padding="10px"  width="180px"  heigth="180px"
+     
+        <caption align="center"</caption>
+
+        <tr bgcolor="#7FFF00">
+          <th scope="col">hora</th>  
+          <th scope="col">lunes</th>  
+          <th scope="col">martes</th>
+          <th scope="col">miercoles</th>
+          <th scope="col">jueves</th>
+          <th scope="col">viernes</th>
+        </tr>
+
+        <tr>
+          <td>8:00 9:00</td>
+          <td bgcolor="#FFB6C1" rowspan="2">LMSGI</td>
+          <td bgcolor="#FFFAF0" rowspan="2">BD</td>
+          <td bgcolor="#4682B4" rowspan="2">P-ED</td>
+          <td bgcolor="#FFFF00" rowspan="2">SI</td>
+          <td bgcolor="#FFFAF0" rowspan="2">BD</td>
+        </tr>
+
+
+        <tr>
+          <td>9:0 10:00</td>
+        </tr>
+
+
+        <tr>
+          <td>10:0011:00</td>
+          <td bgcolor="#4682B4">P-ED</td>
+          <td bgcolor="#4169E1">TUT</td>
+          <td bgcolor="#FFD700">AN</td>
+          <td bgcolor="#4682B4">P-ED</td>
+          <td bgcolor="#4682B4">P-ED</td>
+        </tr>
+       <caption align="center">HORARIO</caption>
+
+       <caption align="center">Curso 24-25</caption>
+        <tr>
+          <td>Descanso</td>
+        </tr>
+
+
+        <tr>
+          <td>11:3012:30</td>
+          <td bgcolor="#4682B4">P-ED</td>
+          <td bgcolor="#FFA500" rowspan="2">DIW</td>
+          <td bgcolor="#FF0000" rowspan="2">IPOI</td>
+          <td bgcolor="#4682B4" rowspan="2">P-ED</td>
+          <td bgcolor="#4682B4">P-ED</td>
+        </tr> 
+
+
+        <tr>
+          <td>12:3013:30</td>
+          <td bgcolor="#FF0000">IPOI</td>
+          <td bgcolor="#FFFF00">SI</td>
+        </tr>
+
+    </table>
+</body>
+</html>
